@@ -1,4 +1,4 @@
-# sudoku-solver
+# Sudoku-solver
 I built a Sudoku solver with GUI using Pygame library.
 
 ### Introduction
@@ -6,7 +6,7 @@ Sudoku is a logic-based, combinatorial number-placement puzzle. In classic Sudok
 
 ![](unsolved-sudoku.png)
 
-### how it works?
+### How it works?
 The algorithm is based on backtracking.
 Backtracking is a kind of brute-force approach to this problem, but the difference is that in backtracking we do not try all the possible combinations if not needed.
 1. We find an empty cell on the board.
@@ -16,7 +16,7 @@ Backtracking is a kind of brute-force approach to this problem, but the differen
 
 ![](solved-sudoku.png)
 
-#### the algorithm in action using Pygame:
+#### The algorithm in action using Pygame:
 
 
 
